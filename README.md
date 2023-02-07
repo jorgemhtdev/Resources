@@ -8,4 +8,4 @@
 
 ## Free Apis
 
-- [Simpleicons](https://punkapi.com/documentation/v2)
+- [Punkapi](https://punkapi.com/documentation/v2)
