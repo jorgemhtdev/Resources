@@ -5,6 +5,9 @@
 - [Simple Icons](https://simpleicons.org/)
 - [Shields](https://shields.io/)
 
+## Tools
+
+- [svgcrop](https://svgcrop.com)
 
 ## Free Apis
 
