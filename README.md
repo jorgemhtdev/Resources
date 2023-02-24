@@ -12,3 +12,4 @@
 ## Free Apis
 
 - [Punkapi](https://punkapi.com/documentation/v2)
+- [Rickandmortyapi](https://rickandmortyapi.com/documentation/)
